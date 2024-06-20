@@ -1,16 +1,69 @@
 ## Hi there 👋
 
-<!--
-**myata64/myata64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Алгоритмы и Структуры Данных
+- Big(O) Notation
+- Hash-Map
+- Односвязный список, Двусвязный список
+- Красно-черные деревья
+- Сортировки
+- Графы
+- Мнимые числа
 
-Here are some ideas to get you started:
+## Языки Программирования
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Python
+- OOP (Объектно-Ориентированное Программирование)
+- SOLID
+- Асинхронное программирование
+
+### C++
+- OOP (Объектно-Ориентированное Программирование)
+- Qt
+- CMake
+
+## Веб-разработка
+
+### Backend
+- Django (DRF, Celery)
+- FastAPI
+- Jinja2
+- API Stripe
+
+### Frontend (небольшой опыт)
+- HTML
+- SCSS/SASS
+- Gulp 4
+
+## Базы данных
+
+### SQL
+- PostgreSQL (pgBouncer, pgAdmin)
+- MySQL
+
+### NoSQL
+- Redis
+- MongoDB
+- GraphQL
+
+## Инструменты и Технологии
+
+### DevOps и Оркестрация
+- Linux
+- WSL
+- Git
+- Docker (Docker, Docker Compose)
+- Kubernetes
+- Nginx
+- Apache
+- CI/CD
+- AWS
+- Kafka
+- RabbitMQ
+- Postman
+
+## Дополнительные Навыки
+- Линейная алгебра
+- Аналитическая геометрия
+- Теория вероятностей и математическая статистика
+- Уровень Английского: B1
+
